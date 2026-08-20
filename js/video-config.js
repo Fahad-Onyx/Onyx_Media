@@ -14,10 +14,10 @@
 
 const VIDEOS = {
   documentary: [
-    { id:"doc-1", title:"The Untold Story",      category:"Documentary",       url:"https://drive.google.com/file/d/1ooYlh1YG_C9RQTEoe18QTaalALxRN2QY/view?usp=sharing", duration:"12:34" },
-    { id:"doc-2", title:"Behind the Lens",       category:"Documentary",       url:"https://drive.google.com/file/d/1ooYlh1YG_C9RQTEoe18QTaalALxRN2QY/view?usp=sharing", duration:"08:45" },
-    { id:"doc-3", title:"Voices Unheard",        category:"Documentary",       url:"https://drive.google.com/file/d/1ooYlh1YG_C9RQTEoe18QTaalALxRN2QY/view?usp=sharing", duration:"15:20" },
-    { id:"doc-4", title:"Earth's Last Frontier", category:"Documentary",       url:"https://drive.google.com/file/d/1ooYlh1YG_C9RQTEoe18QTaalALxRN2QY/view?usp=sharing", duration:"22:10" }
+    { id:"doc-1", title:"The Untold Story",      category:"Documentary", url:"https://drive.google.com/file/d/1ooYlh1YG_C9RQTEoe18QTaalALxRN2QY/preview" },
+    { id:"doc-2", title:"Behind the Lens",       category:"Documentary",       url:"https://drive.google.com/file/d/YOUR_SPORT_ID_1/preview" },
+    { id:"doc-3", title:"Voices Unheard",        category:"Documentary",       url:"https://drive.google.com/file/d/YOUR_SPORT_ID_1/preview", duration:"15:20" },
+    { id:"doc-4", title:"Earth's Last Frontier", category:"Documentary",       url:"https://drive.google.com/file/d/YOUR_SPORT_ID_1/preview", duration:"22:10" }
   ],
   sports: [
     { id:"sport-1", title:"Championship Finals",       category:"Sports", url:"https://drive.google.com/file/d/YOUR_SPORT_ID_1/preview", duration:"05:30" },
